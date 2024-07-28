@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+huggingface-hub==0.24.2
+langchain==0.2.11
+langchain-chroma==0.1.2
+langchain-community==0.2.10
+langchain-core==0.2.24
+langchain-experimental==0.0.63
+langchain-text-splitters==0.2.2
+langchainhub==0.1.20
+PyPDF2==3.0.1
+sentence-transformers==3.0.1
